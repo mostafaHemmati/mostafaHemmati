@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m an android developer  experience in developing android apps.
+
 
 | ![Mostafa's github stats](https://github-readme-stats.vercel.app/api?username=mostafaHemmati&show_icons=true&theme=dracula&title_color=4caf50&icon_color=ffb74d&hide_title=true) | ![Mostafa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaHemmati&layout=compact&theme=dracula&title_color=FFFFFF) |
 | --- | --- | 
