@@ -3,7 +3,7 @@
 
 
 | ![Mostafa's github stats](https://github-readme-stats.vercel.app/api?username=mostafaHemmati&show_icons=true&theme=dracula&title_color=4caf50&icon_color=ffb74d&hide_title=true) | ![Mostafa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaHemmati&layout=compact&theme=dracula&title_color=FFFFFF) |
-| --- | --- | 
+| ![Mostafa's github stats](https://github-readme-streak-stats.herokuapp.com/?user=mostafahemmati&theme=tokyonight&dates=DDD70D) | --- | 
 
 
 <!--
